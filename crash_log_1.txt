@@ -1,0 +1,888 @@
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+interrupt_op_jni.cpp:20 Interruption Native function "initInterruptFlags" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_sharpen_dodger.cpp:202 sharpendodger4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+effect_film.cpp:203 film4buf - enter
+graph.cpp:791  >>>>>>>>>>>>> Loading graph <<<<<<<<<<<< 
+graph.cpp:631 Generating value kernel with name fade->fade
+graph.cpp:647 Creating connections
+graph.cpp:709 Finding initial kernels
+factory.cpp:320 --- PI Factory is loaded. Load duration: 58.9585 ms ---
+graph.cpp:733 Synchronizing graph types
+graph.cpp:744 Graph type synchronization done!!!
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_seafoam_light_cross.cpp:562 seafoamlightcrss4buf
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_7.cpp:103 effect74buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_blackandwhite.cpp:285 BlackAndWhite - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_13.cpp:92 effect134buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_14.cpp:108 effect144buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+effect_film.cpp:203 film4buf - enter
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_cinerama.cpp:179 cinerama4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_vintage_ivory.cpp:344 vintageivory4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_yestercolor.cpp:213 yestercolor4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_tranquil.cpp:72 tranquil4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_4.cpp:270 effect44buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_12.cpp:184 effect124buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_24.cpp:470 effect244buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_40.cpp:330 effect404buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_vintage.cpp:104 vintage4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_warming_amber.cpp:489 warmingamber4bud - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+effect_convolution.cpp:71 convolution4buf - enter
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+effect_saturation.cpp:82 saturate4buf - Enter
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_vignette.cpp:305 vignette4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_lomo.cpp:145 lomo4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_dusk.cpp:171 dusk4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_blackandwhite.cpp:285 BlackAndWhite - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_crossprocessing.cpp:104 Crossprocessing4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_blackandwhite.cpp:285 BlackAndWhite - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_vintage.cpp:104 vintage4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+effect_sepia.cpp:67 sepia4buf - enter
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_crossprocess.cpp:192 crossprocess4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_crossprocessing.cpp:104 Crossprocessing4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_sharpen_dodger.cpp:202 sharpendodger4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_sharpen_dodger.cpp:202 sharpendodger4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+effect_film.cpp:203 film4buf - enter
+effect_film.cpp:203 film4buf - enter
+graph.cpp:791  >>>>>>>>>>>>> Loading graph <<<<<<<<<<<< 
+graph.cpp:631 Generating value kernel with name fade->fade
+graph.cpp:647 Creating connections
+graph.cpp:709 Finding initial kernels
+graph.cpp:733 Synchronizing graph types
+graph.cpp:744 Graph type synchronization done!!!
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_hdr.cpp:346 Hdr4buf - Enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_sharpen_dodger.cpp:202 sharpendodger4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_sharpen_dodger.cpp:202 sharpendodger4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
+buffer_op_jni.cpp:39 image-dataNative function "resize" is called.
+interrupt_op_jni.cpp:29 InterruptionNative function "obtainObjectInstanceIdentifier" is called.
+effect_soften.cpp:57 soften4buf - enter
+interrupt_op_jni.cpp:62 InterruptionNative function "interruptObjectInstance" is called.
+interrupt_op_jni.cpp:65 Interruptiontask id = 0
+interrupt_op_jni.cpp:44 InterruptionNative function "releaseObjectInstanceIdentifier" is called.
